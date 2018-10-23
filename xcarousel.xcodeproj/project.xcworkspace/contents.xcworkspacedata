@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:xainar.xcodeproj">
+      location = "self:/Users/osx/Desktop/xainar/xcarousel.xcodeproj">
    </FileRef>
 </Workspace>

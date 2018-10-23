@@ -14,8 +14,8 @@
 		1098F16F217B1CC200F7151E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1098F16D217B1CC200F7151E /* Main.storyboard */; };
 		1098F171217B1CD100F7151E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1098F170217B1CD100F7151E /* Assets.xcassets */; };
 		1098F174217B1CD100F7151E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1098F172217B1CD100F7151E /* LaunchScreen.storyboard */; };
-		1098F17F217B1CD200F7151E /* xainarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098F17E217B1CD200F7151E /* xainarTests.swift */; };
-		1098F18A217B1CD200F7151E /* xainarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098F189217B1CD200F7151E /* xainarUITests.swift */; };
+		1098F17F217B1CD200F7151E /* xcarouselTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098F17E217B1CD200F7151E /* xcarouselTests.swift */; };
+		1098F18A217B1CD200F7151E /* xcarouselUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098F189217B1CD200F7151E /* xcarouselUITests.swift */; };
 		1098F1A0217B267100F7151E /* SwiftyTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1098F19F217B267000F7151E /* SwiftyTimer.swift */; };
 		10990206217D70130041B41E /* XCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10990205217D70130041B41E /* XCarousel.swift */; };
 /* End PBXBuildFile section */
@@ -40,18 +40,18 @@
 /* Begin PBXFileReference section */
 		108384CB217EB03E0010138C /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 		108384CC217EB03E0010138C /* CustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
-		1098F166217B1CC200F7151E /* xainar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xainar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1098F166217B1CC200F7151E /* xcarousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcarousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1098F169217B1CC200F7151E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1098F16B217B1CC200F7151E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1098F16E217B1CC200F7151E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1098F170217B1CD100F7151E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1098F173217B1CD100F7151E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1098F175217B1CD100F7151E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1098F17A217B1CD200F7151E /* xainarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xainarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1098F17E217B1CD200F7151E /* xainarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xainarTests.swift; sourceTree = "<group>"; };
+		1098F17A217B1CD200F7151E /* xcarouselTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xcarouselTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1098F17E217B1CD200F7151E /* xcarouselTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcarouselTests.swift; sourceTree = "<group>"; };
 		1098F180217B1CD200F7151E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1098F185217B1CD200F7151E /* xainarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xainarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1098F189217B1CD200F7151E /* xainarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xainarUITests.swift; sourceTree = "<group>"; };
+		1098F185217B1CD200F7151E /* xcarouselUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xcarouselUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1098F189217B1CD200F7151E /* xcarouselUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcarouselUITests.swift; sourceTree = "<group>"; };
 		1098F18B217B1CD200F7151E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1098F19F217B267000F7151E /* SwiftyTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyTimer.swift; sourceTree = "<group>"; };
 		10990205217D70130041B41E /* XCarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCarousel.swift; sourceTree = "<group>"; };
@@ -85,9 +85,9 @@
 		1098F15D217B1CC200F7151E = {
 			isa = PBXGroup;
 			children = (
-				1098F168217B1CC200F7151E /* xainar */,
-				1098F17D217B1CD200F7151E /* xainarTests */,
-				1098F188217B1CD200F7151E /* xainarUITests */,
+				1098F168217B1CC200F7151E /* xcarousel */,
+				1098F17D217B1CD200F7151E /* xcarousel Tests */,
+				1098F188217B1CD200F7151E /* xcarouselUITests */,
 				1098F167217B1CC200F7151E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,14 +95,14 @@
 		1098F167217B1CC200F7151E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1098F166217B1CC200F7151E /* xainar.app */,
-				1098F17A217B1CD200F7151E /* xainarTests.xctest */,
-				1098F185217B1CD200F7151E /* xainarUITests.xctest */,
+				1098F166217B1CC200F7151E /* xcarousel.app */,
+				1098F17A217B1CD200F7151E /* xcarouselTests.xctest */,
+				1098F185217B1CD200F7151E /* xcarouselUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1098F168217B1CC200F7151E /* xainar */ = {
+		1098F168217B1CC200F7151E /* xcarousel */ = {
 			isa = PBXGroup;
 			children = (
 				1098F169217B1CC200F7151E /* AppDelegate.swift */,
@@ -116,33 +116,33 @@
 				108384CB217EB03E0010138C /* CustomCell.swift */,
 				108384CC217EB03E0010138C /* CustomCell.xib */,
 			);
-			path = xainar;
+			path = xcarousel;
 			sourceTree = "<group>";
 		};
-		1098F17D217B1CD200F7151E /* xainarTests */ = {
+		1098F17D217B1CD200F7151E /* xcarousel Tests */ = {
 			isa = PBXGroup;
 			children = (
-				1098F17E217B1CD200F7151E /* xainarTests.swift */,
+				1098F17E217B1CD200F7151E /* xcarouselTests.swift */,
 				1098F180217B1CD200F7151E /* Info.plist */,
 			);
-			path = xainarTests;
+			path = "xcarousel Tests";
 			sourceTree = "<group>";
 		};
-		1098F188217B1CD200F7151E /* xainarUITests */ = {
+		1098F188217B1CD200F7151E /* xcarouselUITests */ = {
 			isa = PBXGroup;
 			children = (
-				1098F189217B1CD200F7151E /* xainarUITests.swift */,
+				1098F189217B1CD200F7151E /* xcarouselUITests.swift */,
 				1098F18B217B1CD200F7151E /* Info.plist */,
 			);
-			path = xainarUITests;
+			path = xcarouselUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1098F165217B1CC200F7151E /* xainar */ = {
+		1098F165217B1CC200F7151E /* xcarousel */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1098F18E217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xainar" */;
+			buildConfigurationList = 1098F18E217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xcarousel" */;
 			buildPhases = (
 				1098F162217B1CC200F7151E /* Sources */,
 				1098F163217B1CC200F7151E /* Frameworks */,
@@ -152,14 +152,14 @@
 			);
 			dependencies = (
 			);
-			name = xainar;
+			name = xcarousel;
 			productName = xainar;
-			productReference = 1098F166217B1CC200F7151E /* xainar.app */;
+			productReference = 1098F166217B1CC200F7151E /* xcarousel.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1098F179217B1CD200F7151E /* xainarTests */ = {
+		1098F179217B1CD200F7151E /* xcarouselTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1098F191217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xainarTests" */;
+			buildConfigurationList = 1098F191217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xcarouselTests" */;
 			buildPhases = (
 				1098F176217B1CD200F7151E /* Sources */,
 				1098F177217B1CD200F7151E /* Frameworks */,
@@ -170,14 +170,14 @@
 			dependencies = (
 				1098F17C217B1CD200F7151E /* PBXTargetDependency */,
 			);
-			name = xainarTests;
+			name = xcarouselTests;
 			productName = xainarTests;
-			productReference = 1098F17A217B1CD200F7151E /* xainarTests.xctest */;
+			productReference = 1098F17A217B1CD200F7151E /* xcarouselTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1098F184217B1CD200F7151E /* xainarUITests */ = {
+		1098F184217B1CD200F7151E /* xcarouselUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1098F194217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xainarUITests" */;
+			buildConfigurationList = 1098F194217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xcarouselUITests" */;
 			buildPhases = (
 				1098F181217B1CD200F7151E /* Sources */,
 				1098F182217B1CD200F7151E /* Frameworks */,
@@ -188,9 +188,9 @@
 			dependencies = (
 				1098F187217B1CD200F7151E /* PBXTargetDependency */,
 			);
-			name = xainarUITests;
+			name = xcarouselUITests;
 			productName = xainarUITests;
-			productReference = 1098F185217B1CD200F7151E /* xainarUITests.xctest */;
+			productReference = 1098F185217B1CD200F7151E /* xcarouselUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -216,7 +216,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1098F161217B1CC200F7151E /* Build configuration list for PBXProject "xainar" */;
+			buildConfigurationList = 1098F161217B1CC200F7151E /* Build configuration list for PBXProject "xcarousel" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -229,9 +229,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1098F165217B1CC200F7151E /* xainar */,
-				1098F179217B1CD200F7151E /* xainarTests */,
-				1098F184217B1CD200F7151E /* xainarUITests */,
+				1098F165217B1CC200F7151E /* xcarousel */,
+				1098F179217B1CD200F7151E /* xcarouselTests */,
+				1098F184217B1CD200F7151E /* xcarouselUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -281,7 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1098F17F217B1CD200F7151E /* xainarTests.swift in Sources */,
+				1098F17F217B1CD200F7151E /* xcarouselTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,7 +289,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1098F18A217B1CD200F7151E /* xainarUITests.swift in Sources */,
+				1098F18A217B1CD200F7151E /* xcarouselUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,12 +298,12 @@
 /* Begin PBXTargetDependency section */
 		1098F17C217B1CD200F7151E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1098F165217B1CC200F7151E /* xainar */;
+			target = 1098F165217B1CC200F7151E /* xcarousel */;
 			targetProxy = 1098F17B217B1CD200F7151E /* PBXContainerItemProxy */;
 		};
 		1098F187217B1CD200F7151E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1098F165217B1CC200F7151E /* xainar */;
+			target = 1098F165217B1CC200F7151E /* xcarousel */;
 			targetProxy = 1098F186217B1CD200F7151E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -450,12 +450,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AZDNSG7VTL;
-				INFOPLIST_FILE = xainar/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/xcarousel/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.xainar.xcarousel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xcarousel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -468,12 +468,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AZDNSG7VTL;
-				INFOPLIST_FILE = xainar/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/xcarousel/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.xainar.xcarousel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xcarousel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -487,17 +487,17 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AZDNSG7VTL;
-				INFOPLIST_FILE = xainarTests/Info.plist;
+				INFOPLIST_FILE = xcarouselTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.woovoo.xainarTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xcarouselTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/xainar.app/xainar";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/xcarousel.app/xcarousel";
 			};
 			name = Debug;
 		};
@@ -508,17 +508,17 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AZDNSG7VTL;
-				INFOPLIST_FILE = xainarTests/Info.plist;
+				INFOPLIST_FILE = xcarouselTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.woovoo.xainarTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xcarouselTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/xainar.app/xainar";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/xcarousel.app/xcarousel";
 			};
 			name = Release;
 		};
@@ -528,17 +528,17 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AZDNSG7VTL;
-				INFOPLIST_FILE = xainarUITests/Info.plist;
+				INFOPLIST_FILE = xcarouselUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.woovoo.xainarUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xcarouselUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = xainar;
+				TEST_TARGET_NAME = xcarousel;
 			};
 			name = Debug;
 		};
@@ -548,24 +548,24 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AZDNSG7VTL;
-				INFOPLIST_FILE = xainarUITests/Info.plist;
+				INFOPLIST_FILE = xcarouselUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.woovoo.xainarUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xcarouselUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = xainar;
+				TEST_TARGET_NAME = xcarousel;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1098F161217B1CC200F7151E /* Build configuration list for PBXProject "xainar" */ = {
+		1098F161217B1CC200F7151E /* Build configuration list for PBXProject "xcarousel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1098F18C217B1CD200F7151E /* Debug */,
@@ -574,7 +574,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1098F18E217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xainar" */ = {
+		1098F18E217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xcarousel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1098F18F217B1CD200F7151E /* Debug */,
@@ -583,7 +583,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1098F191217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xainarTests" */ = {
+		1098F191217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xcarouselTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1098F192217B1CD200F7151E /* Debug */,
@@ -592,7 +592,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1098F194217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xainarUITests" */ = {
+		1098F194217B1CD200F7151E /* Build configuration list for PBXNativeTarget "xcarouselUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1098F195217B1CD200F7151E /* Debug */,

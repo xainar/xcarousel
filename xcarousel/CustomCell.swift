@@ -1,6 +1,6 @@
 //
 //  CustomCell.swift
-//  xainar
+//  xcarousel
 //
 //  Created by osx on 10/23/18.
 //  Copyright © 2018 osx. All rights reserved.

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  xainar
+//  xcarousel
 //
 //  Created by osx on 10/20/18.
 //  Copyright © 2018 osx. All rights reserved.

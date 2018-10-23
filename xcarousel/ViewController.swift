@@ -7,7 +7,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        xCarousel = XCarousel.init(frame: CGRect(x: 0.0, y: 60.0, width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.width / 1.5))
+        xCarousel = XCarousel.init(frame: CGRect(x: 0.0, y: 60.0, width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.width / 1.3))
         
         let data = [Banner(name: "slider 1", link: "https://www.google.com", image: "0"),
                     Banner(name: "slider 2", link: "https://www.google.com", image: "1"),
