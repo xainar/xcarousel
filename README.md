@@ -1,2 +1,2 @@
 # xcarousel
-UICollectionView based image auto slider written in swift
+UICollectionView based image auto slider written in swift 4 
